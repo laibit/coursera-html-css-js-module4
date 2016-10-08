@@ -1,4 +1,4 @@
-(function () {
+(function (window) {
 
 
 
@@ -14,4 +14,4 @@ window.byeSpeaker = byeSpeaker;
 
 
 
-})();
+})(window);

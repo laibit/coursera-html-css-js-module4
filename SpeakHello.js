@@ -1,4 +1,4 @@
-(function () {
+(function (window) {
 
 
 
@@ -14,4 +14,4 @@ window.helloSpeaker = helloSpeaker;
 
 
 
-})();
+})(window);
